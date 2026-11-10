@@ -15,3 +15,5 @@ Une seule page HTML, sans serveur : les parties sont enregistrées sur le télé
 Modifier `index.html`, puis `git commit` et `git push`. Le téléphone récupère la nouvelle
 version à la prochaine ouverture avec une connexion. Pour forcer le vidage du cache,
 changer le numéro de version de `CACHE` dans `sw.js`.
+
+Built with help from Claude
